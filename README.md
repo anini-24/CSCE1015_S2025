@@ -10,3 +10,9 @@ asdf
 
 ## Matthew Dulock
 $(MATTHEW_DULOCK)
+## EUID
+as3966
+## Favorite Professor
+(Mathhew_Dullock)
+## EUID
+as3966
